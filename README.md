@@ -10,13 +10,15 @@ The project is about developing an E-Commerce Website for AlbarakaMarket , Food 
 
 ![Xamp](img/Xamp.png)
 
-## Plugins
-- **WooCommerce**   # An eCommerce toolkit that helps you sell anything. 
+## Plugins 
+- WooCommerce  #**An eCommerce toolkit that helps you sell anything.** 
 
-- **Akismet Anti-spam: Spam Protection**   # Akismet is quite possibly the best way in the world to protect your blog from spam.
+- Akismet Anti-spam: Spam Protection  # **Akismet is quite possibly the best way in the world to protect your blog from spam.**
 
-- **PDF Invoices & Packing Slips for WooCommerce**    # Create, print & email PDF invoices & packing slips for WooCommerce orders.
-  
+- PDF Invoices & Packing Slips for WooCommerce   # **Create, print & email PDF invoices & packing slips for WooCommerce orders.**
+
+
+
 ## Theme
 **Online Food DeliveryVersion: 0.2.8**<br/> 
 **By ThemesCaliber**
