@@ -7,6 +7,7 @@ The project is about developing an E-Commerce Website for AlbarakaMarket , Food 
 ## DATABASE Platform
 - Xamp v3.3.0
 - PHP MY Admin
+
 ![Xamp](img/Xamp.png)
 
 ## Plugins
