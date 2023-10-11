@@ -11,13 +11,13 @@ The project is about developing an E-Commerce Website for AlbarakaMarket , Food 
 ![Xamp](img/Xamp.png)
 
 ## Plugins
-- WooCommerce   #An eCommerce toolkit that helps you sell anything. 
+- WooCommerce   # An eCommerce toolkit that helps you sell anything. 
 
 - Akismet Anti-spam: Spam Protection   # Akismet is quite possibly the best way in the world to protect your blog from spam.
 
-- PDF Invoices & Packing Slips for WooCommerce    #Create, print & email PDF invoices & packing slips for WooCommerce orders.
+- PDF Invoices & Packing Slips for WooCommerce    # Create, print & email PDF invoices & packing slips for WooCommerce orders.
 
-- Hello Dolly    #it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from Hello, Dolly in the upper right of your admin screen on every page.
+- Hello Dolly    # it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from Hello, Dolly in the upper right of your admin screen on every page.
   
 ## Theme
 Online Food DeliveryVersion: 0.2.8 <br/> 
