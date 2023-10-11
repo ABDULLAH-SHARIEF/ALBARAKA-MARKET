@@ -4,6 +4,10 @@ Design and Develop Modern Ecommerce Plafform
 ## Project Overview
 The project is about developing an E-Commerce Website for AlbarakaMarket , Food market. The website is built using the **WordPress** content management system (CMS) and will integrate the WooCommerce plugin to facilitate seamless e-commerce functionality. This platform will allow AlbarakaMarket customers to browse, select, and purchase Food prodcuts online, enhancing their shopping experience and providing a convenient way to access the store's offerings.
 
+## DATABASE And Platforms
+- Xamp v3.3.0
+- PHP MY Admin
+
 ## Plugin
 - WooCommerce
 - Akismet Anti-spam: Spam Protection
